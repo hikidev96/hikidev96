@@ -1,5 +1,4 @@
-
-
+<h1>Profile</h1>
 
 <!--
 <h2>Things i handle</h2>
