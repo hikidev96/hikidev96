@@ -1,7 +1,5 @@
 <h1>Currently Working On Projects</h1>
 
-[English Self Education](https://github.com/hikidev96/winapp--english-self-education)
-
 [DirectX 12 Example](https://github.com/hikidev96/dx12--example)
 
 [Third Person Movement](https://github.com/hikidev96/unity--3rd-movement)
