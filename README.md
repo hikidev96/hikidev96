@@ -1,15 +1,3 @@
-<h1>Currently Working On Projects</h1>
-
-[DirectX 12 Example](https://github.com/hikidev96/dx12--example)
-
-[Third Person Movement](https://github.com/hikidev96/unity--3rd-movement)
-
-[Nature Of Code](https://github.com/hikidev96/unity--nature-of-code)
-
-[Astromad](https://github.com/hikidev96/unity--astromad)
-
-and other private projects
-
 
 
 
